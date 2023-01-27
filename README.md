@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a twenty two year old Computer Science engineer interested in many
+fields of Artificial Inteligence such as Machine Learning, Computer Vision
+and Deep learning. 
+
+- I am currently coursing a Master’s degree in Computer Vision.
+- Most of the repositories you will find in my github will be about AI.
+- In my free time I like to do some kaggle competitions. 
+
 <!--
 **0Miquel/0Miquel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
