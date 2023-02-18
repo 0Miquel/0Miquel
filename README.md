@@ -6,7 +6,7 @@ and Deep learning.
 
 - I am currently coursing a Master’s degree in Computer Vision.
 - Most of the repositories you will find in my github will be about AI.
-- Sometimes I you can find me doing some Kaggles for fun ([my profile](https://www.kaggle.com/miquel0)).
+- Sometimes you can find me doing some Kaggles for fun ([my profile](https://www.kaggle.com/miquel0)).
 
 <!--
 **0Miquel/0Miquel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
